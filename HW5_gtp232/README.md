@@ -1,11 +1,9 @@
 ## Assignment 1: Compare Tests for Goodness of fit (on real data)
-
-
+I worked on Assignment 1 with Avi Somvanshi, especially with the plotting of the citibike age dist v gaussian dist
 
 
 ## Assignment 2: Line fitting and data munging with income gender bias.
 I worked on Assignment 2 with Ben Miller and Chris Streich.
-
 
 
 
