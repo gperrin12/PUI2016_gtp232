@@ -1,0 +1,3 @@
+Xinge's plot of various chi-squared distributions with varying levels of degrees of freedom is pretty cool! The area / use of space of the chart is appropriate, the plot is labelled, as well as the axes. Also, the data (even if it's just statistical distributions) is not represented in a misleading way. However, my suggestion to improve the chart would be to make the axes labels and plot title a bit larger to make them all easier to read.
+
+-Geoff P
