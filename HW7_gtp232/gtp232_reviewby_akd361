@@ -2,9 +2,9 @@
 
 Haha first plot "should surprise absolutely no one". Glad I found that in there, was wondering...
 
-![Geoff's First Plot](/HW7_gtp232/Geoff's First Plot.png?raw=true "Geoff's First Plot")
+![Geoff's First Plot](/PUI2016_gtp232/HW7_gtp232/Geoff_First_Plot.png?raw=true "Geoff's First Plot")
 
-![Geoff's Second Plot](/HW7_gtp232/Geoff's Second Plot.png?raw=true "Geoff's Second Plot")
+![Geoff's Second Plot](/PUI2016_gtp232/HW7_gtp232/Geoff_Second_Plot.png?raw=true "Geoff's Second Plot")
 
 ## CLARITY
 Both plots are clear. In the first plot, points could be labeled something like "properties" instead of "data". That the x axis in both plots is units "per building" could be slightly more clear. That might have taken a minute to figure out if I hadn't read the whole notebook before that. Could be more specific than "model line" in second plot, though the markdown below explains it.
