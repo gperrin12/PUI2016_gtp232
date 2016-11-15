@@ -1,0 +1,1 @@
+I worked on the subway timeseries project with Kristi Korsberg.
