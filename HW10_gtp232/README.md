@@ -1,0 +1,5 @@
+HW10 - geopandas work
+I worked on the conclusion and figuring out the concept of autocorrelation with Kristi Korsberg.
+
+CONCLUSION:
+The spatial autocorrelation DOES change between summer and winter. We found the Moran's I statistic to be 0.662 in the winter, and only 0.644 in the summer. This means that census tracts in the winter are more spatially similar to one another compared to census tracts in the summer. This could possibly be due to the fact that in summer, people are more likely to be more adventurous citibike riders, and may go on leisure trips that start in more disparate places than in the winter. In summer, there are fewer hot spots (189 in the summer to 195 in the winter), but more cold spots (243 in the summer to 213 in the winter). This means that there is a higher frequency of spatially similar places with low ridership in the summer, but due to the Moran's I statistic being higher in winter, across all census tracts, the winter census tracts are still more self-similar.
